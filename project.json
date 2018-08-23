@@ -1,0 +1,12 @@
+{
+  "description": "YearlyReport_Dispatcher",
+  "version": "2016.2.6274.33252",
+  "main": "Main_Dispatcher.xaml",
+  "id": "YearlyReport_Dispatcher_REFW",
+  "dependencies": {},
+  "configurationOptions": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ]
+}
